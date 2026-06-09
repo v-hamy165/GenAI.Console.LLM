@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/.github/" />
+  <Folder Name="/.github/workflows/">
+    <File Path="dotnet-tests.yml" />
+  </Folder>
+  <Project Path="DemoUnitTest_ConsoleApp/DemoUnitTest_ConsoleApp.csproj" />
+  <Project Path="UnitTest/UnitTest.csproj" Id="ac7c33cb-a6e6-425b-9892-dfb8a36529b6" />
+</Solution>
